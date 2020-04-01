@@ -1,0 +1,15 @@
+# Blacklist files/folders
+*
+
+# Whitelist some files
+!.gitignore
+!README.md
+!*.c
+!*.h
+
+!HelloWorld
+!Lesson_02
+!Lesson_03
+!Lesson_04
+!Lesson_05
+!Lesson_06
