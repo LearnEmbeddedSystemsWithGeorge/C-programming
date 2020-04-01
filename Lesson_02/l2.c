@@ -1,8 +1,6 @@
 /*
- * l2.c
+ * Lesson 2
  *
- *  Created on: Jan 16, 2020
- *      Author: preli
  */
 
 

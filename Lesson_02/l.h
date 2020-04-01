@@ -1,13 +1,11 @@
 /*
- * l.h
+ * Lesson 2 header file
  *
- *  Created on: Jan 16, 2020
- *      Author: preli
  */
 
 #ifndef L_H_
 #define L_H_
 
-
+// Nothing for this lesson
 
 #endif /* L_H_ */
