@@ -1,8 +1,6 @@
 /*
  * Lesson_01.c
  *
- *  Created on: Jan 13, 2020
- *      Author: preli
  */
 
 /* Standard input output library */
